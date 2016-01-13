@@ -1,0 +1,93 @@
+/* ADD YOUR STYLES HERE */
+.box1, .box2, .box3, .box4, .box11, .box12, .box13, .box14 {
+	border-bottom: 1px solid silver;
+}
+.box1 {
+	padding-left: 10px;
+	width:100px;
+}
+
+.box2 {
+	width:200px;
+}
+
+.box3 {
+	width:300px;
+}
+.box4 {
+	width: 400px;
+}
+.box1a, .box11a {
+	padding-left: 10px;
+}
+.BB1, .BB2, .BB3 {
+	height: 40px;
+}	
+.box11 {
+	padding-left: 10px;
+	width:100px;
+}
+
+.box12 {
+	width:320px;
+}
+
+.box13 {
+	width:240px;
+}
+.box14 {
+	width: 400px;
+}
+.BB11, .BB12, .BB13, .BB14{
+	height: 40px
+}
+.Bold1 {
+	font-weight: bold;
+	font-size: 35px;
+	border-top: 1px solid silver;
+	padding-top: 20px;
+
+}
+.text {
+	font: 13px solid;
+	font-weight: bold;
+	opacity: .4;
+	border-bottom: 1px solid gray;
+	padding-bottom: 20px;
+}
+
+.text, .Bold1 {
+	width: 90px;
+}
+.center {
+	text-align: center;
+}
+
+.align {
+	text-align: right;
+	padding-right: 10px;
+}
+.graph {
+	background-color: CornflowerBlue;
+	color: white;
+	margin-right: 600px;
+}
+.background {
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
